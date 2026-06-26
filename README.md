@@ -67,4 +67,4 @@ jupyter notebook credit_risk_prediction.ipynb
 
 ## 📬 Connect
 - GitHub: github.com/yuvan05-ship-it
-- LinkedIn: linkedin.com/in/yourprofile
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yuvanraj05/)
